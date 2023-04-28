@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{94E567F4-B6BB-4EB7-ACC9-95689F9E399C}|Default">
-  <MonoDevelop.Ide.ItemProperties.sqt5 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.sqt5 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="sqt5/Calculator.cs">
     <Files>
       <File FileName="sqt5/Program.cs" Line="6" Column="6" />
-      <File FileName="sqt5/Calculator.cs" Line="9" Column="1" />
+      <File FileName="sqt5/Calculator.cs" Line="33" Column="39" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,10 +17,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
